@@ -10,3 +10,4 @@ nohup.out
 .idea/
 idea/
 venv/
+.pytest_cache/*
