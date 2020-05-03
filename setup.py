@@ -5,7 +5,7 @@ from pyrrd.util import dist
 
 
 setup(
-    name=meta.display_name,
+    name="Py3RRD",
     version=meta.version,
     description=meta.description,
     author=meta.author,
@@ -27,7 +27,7 @@ setup(
         "Intended Audience :: Developers",
         "Intended Audience :: Information Technology",
         "Intended Audience :: System Administrators",
-        "Programming Language :: Python",
+        "Programming Language :: Python3",
         "Topic :: Database",
         "Topic :: Database :: Front-Ends",
         "Topic :: Multimedia :: Graphics",

@@ -1,10 +1,12 @@
 .bzrignore
 .bzr
 *.py[oc]
-dist
 sdist
 build
 *.egg
 *.egg-info
 nohup.out
 *.sw[po]
+.idea/
+idea/
+venv/
